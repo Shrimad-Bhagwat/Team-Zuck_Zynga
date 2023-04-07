@@ -30,7 +30,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1316197385203770694}
+  - {fileID: 2394789213634322472}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -88,7 +88,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!1001 &5357117819808435586
+--- !u!1001 &8728078127413774572
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -97,7 +97,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5147227730902760375, guid: 18ffed96e320dd8459caf894cfc778b4, type: 3}
       propertyPath: m_Name
-      value: Particle System
+      value: enemy_thrust_PS
       objectReference: {fileID: 0}
     - target: {fileID: 6349051598459021508, guid: 18ffed96e320dd8459caf894cfc778b4, type: 3}
       propertyPath: m_RootOrder
@@ -145,8 +145,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 18ffed96e320dd8459caf894cfc778b4, type: 3}
---- !u!4 &1316197385203770694 stripped
+--- !u!4 &2394789213634322472 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6349051598459021508, guid: 18ffed96e320dd8459caf894cfc778b4, type: 3}
-  m_PrefabInstance: {fileID: 5357117819808435586}
+  m_PrefabInstance: {fileID: 8728078127413774572}
   m_PrefabAsset: {fileID: 0}
