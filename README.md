@@ -8,6 +8,8 @@
 3. Shrimad Yogesh Bhagwat(20BCG10003)
 4. Aviral Srivastava(20BCG10108)
 
+### Game Download Link : [Meteor Crush](https://github.com/Shrimad-Bhagwat/Team-Zuck_Zynga/blob/main/Meteor%20Crush.rar?raw=true)
+
 ## Design Architecture:
 
 METEOR CRUSH:
