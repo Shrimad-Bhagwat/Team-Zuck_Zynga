@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Team/Shivam/Scenes/1_Splash_Screen.unity
+    guid: a843f7bc41141204cb18e75419dac405
+  - enabled: 1
+    path: Assets/Team/Shivam/Scenes/2_Main_Menu.unity
+    guid: 4a1d6d857f8f1e545a91a9ad1f12052d
+  - enabled: 1
+    path: Assets/Team/Udit/Scene/Movement.unity
+    guid: 493da329d0966f4439f79e37937175f6
+  - enabled: 1
+    path: Assets/Team/Udit/Scene/GameOverScene.unity
+    guid: 8d26543e299341f45b5a7048db1c0c8a
   m_configObjects: {}
