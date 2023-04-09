@@ -28,11 +28,11 @@ The project phases were divided among the team members as follows:
 
 - Environment (background, infinite loop, particle system for the environment, User Interface) - Shivam Singhal (20BCG10113)
 
-- Environment (Meteor Random Spawner), Player Movement(Body Roll, default movement), Mechanics(Point/scoring System), Scripting, Final Compilation - Udit Shrivastava (20BCG10109)
+- Environment (Meteor Random Spawner), Player Movement(Body Roll, default movement), Mechanics(Point/scoring System), Scripting, Final Compilation & Debugging - Udit Shrivastava (20BCG10109)
 
 - Player actions (Shooting, Bullet instantiation, bullet animation/particle system, damage/health system, Game Designer, Documentation, Scripting) - Aviral Srivastava(20BCG10108)
 
-- Environment(Pixelation effect canvas), Asset Creation (Spaceship, meteors, thruster animations, destroy animations, Textures and materials), Final Compilation - Shrimad Bhagwat (20BCG10003)
+- Environment(Pixelation effect canvas), Logo Design, Asset Creation (Spaceship, enemies, meteors, thruster animations, destroy animations, Textures and materials), Final Compilation & Debugging - Shrimad Bhagwat (20BCG10003)
 
 ---
 We definitely see a future for this build of our game. With expanded timespan we could've added many different power ups, retaliating enemies, Boss Fights and even a story arc to the game. Further, it's possible to add a multiplayer mode to Meteor Crush, where players can compete against each other for the highest score. This can be achieved by introducing online leader boards or adding a real-time multiplayer mode where players can play together in the same game session. To make the multiplayer mode engaging, the game mechanics and difficulty curve may need to be adjusted accordingly. Additionally, new power-ups and obstacles may be added to make the game more challenging and exciting. Implementing a multiplayer mode can increase the game's replay value and attract more players, but it also requires a significant amount of development effort and resources.
